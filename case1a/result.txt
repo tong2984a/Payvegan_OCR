@@ -1,0 +1,69 @@
+QR code:	1.jpg
+data:	[Decoded(data=b'Fx+7I1puVtg2h2pC10L6eauF7ouXosqd0lQTHZAJp000s8UKNZs1A49yKweVr5+yokRE6r9ftdNS58j5rmBHwPDX4yVqmheWAhI8', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=262), Point(x=260, y=4)])]
+
+QR code:	10.jpg
+data:	[Decoded(data=b'MMg8CkPPF/arzEg7Lx4D3FQ0QjPHh8pvSQZq93D5nL+a6ke/quDiNj4ZVqcZ5ULpoHKlcBHwt4QPxcnh8U7lx3ZrhkxYnI9uVkYn', type='QRCODE', rect=Rect(left=0, top=3, width=259, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=259, y=5)])]
+
+QR code:	11.jpg
+data:	[Decoded(data=b'2pTJ+qBjDyahWYmoZ01OCeVDydaaI9rHBQqtf1h1/wgLkui/wCQic91yYysrXLF9GlZJTOpI6vFfaYozJcfhcB6F890ShncN0G5j', type='QRCODE', rect=Rect(left=0, top=3, width=259, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=259, y=5)])]
+
+QR code:	12.jpg
+data:	[Decoded(data=b'45uteNYImCuW4WzV3iiUUOXY8ebny/yHqysoz/ArwvScnxNkDKdnbIeZAO33ZZiveqhiEJ5Bvjgv97DxEkMPgo5dpDMweLHKO+Y/', type='QRCODE', rect=Rect(left=0, top=3, width=259, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=259, y=5)])]
+
+QR code:	13.jpg
+data:	[Decoded(data=b'uzRcN1XD1cSzAK38hT9DxZQaWYXFRSqeZYaClcLBfEwqG8XezGIlE6rPCGtRGT8VEyt06EcHGUQdIDZcDLsRlR2A4ExkbAK0Hj/A', type='QRCODE', rect=Rect(left=0, top=3, width=259, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=259, y=5)])]
+
+QR code:	14.jpg
+data:	[Decoded(data=b'IeizEkE4IHmrk+0RiB2OigA788uvBopApXifio9SY8bRnpshx+apXI5KjRqI9VVEcJDs7q0hKjh5n/ghZ/kvUwhskLIT2FAL7sY+', type='QRCODE', rect=Rect(left=0, top=3, width=259, height=261), polygon=[Point(x=0, y=3), Point(x=1, y=264), Point(x=259, y=263), Point(x=259, y=5)])]
+
+QR code:	15.jpg
+data:	[Decoded(data=b'6k2FTqx5qkWMqvTTIt4GIaE1lIRGdmIuwFZDsOxSHyoFzZZJPXuxZC6gfn7u3BYHMaCSoAue1eJu0xiNipV1e7zE880EwxU+6RhL', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=260, y=4)])]
+
+QR code:	16.jpg
+data:	[Decoded(data=b'NWsOwB0fiwqD2+CouNCH7FwX/0ulksrmxSeafu+aLhzjUH4akjqoHF1pjInLMQSGwgMlL5WfwrL8elTGVDIr15svAWI+vFBbLZJu', type='QRCODE', rect=Rect(left=0, top=4, width=260, height=260), polygon=[Point(x=0, y=4), Point(x=1, y=263), Point(x=260, y=264), Point(x=260, y=5)])]
+
+QR code:	17.jpg
+data:	[Decoded(data=b'UgB3BmsQqDaYVCezYFMfICuzcYbOqqqf8NT8WFIToXv4sl9sGo3c6rychLexpzdlK9mdDzF55Ig27UheaNsQjiny6SRFg6qTRZNp', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=260, y=4)])]
+
+QR code:	18.jpg
+data:	[Decoded(data=b'4rk8QuxGmmScGjsUuuQe3zYGgDtNJG4mPtss3kXfxUhIO6b9jcdMHlpKp3FSE4XzYooIMvIBu1lJoMWhn/gChZVz34OpqS7FlEfF', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=260, y=5)])]
+
+QR code:	19.jpg
+data:	[Decoded(data=b'RkAckvq8WfNPrw4oFIIm9RXu/vUnT/uSahSI3g13Mphik49WAQh81S1PjVjbwpohI1Lhi4AIDooLIiHmNqoMkDnPulImmJT+Lr+G', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=260, y=5)])]
+
+QR code:	2.jpg
+data:	[Decoded(data=b'55qInJBjjnawA5cuLmdUiGhWfRh2fNEwk9yAweihpEBw90QTWYfy9ViCR/wAvlrktrzWqt5lwPuoBYDgsZMTYockOXa2IEiH6e7F', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=258, y=263), Point(x=260, y=4)])]
+
+QR code:	20.jpg
+data:	[Decoded(data=b'hbCcaARlK/dL5+lXqxvtMpMXmoSWf2vQ99hE/qyTC1vAeWo4eiCObsDoYqS/wD/2gAMAwEAAhEDEQAAEHOYlHMoHc1Yn3YOc7V45', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=260, y=4)])]
+
+QR code:	21.jpg
+data:	[Decoded(data=b'WyVSHakQY1w/gjv9YgVRlzeq52kFZcP9MFZLJCiXLh1W4HVOZfuAxR6QR8NlvkbGhDw+yPi3cf6ogtUWB5YvuYEgpaHpiU1ExkHH', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=260, y=4)])]
+
+QR code:	22.jpg
+data:	[Decoded(data=b'Ss+VCQMQWO146W5vG2zAi/5P+xSSp5fKCdqCVoPCHieezBibM0W1Irdy//EADMRAQEBAAMAAQIFBQEBAAEBCQEAESExEEFRYSBx8', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=260, y=4)])]
+
+QR code:	23.jpg
+data:	[Decoded(data=b'JGBobHRweHxMEBQYHCAkKCwwNDg/9oACAEDEQE/EN/AbXTn+Z7mZc9HD+W4ENxoOJ9Rvk/1YIGj2SCc/wATIcHjbSNgBftd8vDnj', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=261), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=260, y=264), Point(x=260, y=4)])]
+
+QR code:	3.jpg
+data:	[Decoded(data=b'SMB9PirFTgV61ZfPpd0WWvjzwO+o+LKhbAcB0N9zYGUi8X+jgffz5sZbBdnSPihw5J8/FAEkKSKP0lcl2DkJzzvN5SYIOl8UEhxM', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=262), Point(x=260, y=4)])]
+
+QR code:	4.jpg
+data:	[Decoded(data=b'2Hwc2W6UjiDmB4sjmRfAa33YMASMw9JTApZJeysnIX1PX1Ujni7Wf8Ahrn3YDZzt/DWTnEiboLuHFfZR4VW8E5ebqv2U2CmL5ux5', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=262), Point(x=260, y=4)])]
+
+QR code:	5.jpg
+data:	[Decoded(data=b'oYpHtLjF6RLDxwYWUETy5Pi/BFl8+mloHyYPYeqBSIOHGjLRgF2e/F5vGPqId0dkPh2Ee4s5dXeXuhLHac80ZHF7AhGkogLTgn8w', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=260, y=4)])]
+
+QR code:	6.jpg
+data:	[Decoded(data=b'zeeDHx/a5uf+Rpm9KOCEVMlSYH3cu7vxVDUdJcVAA+jXw0TeTvSiBiOnu+kj92Fu4AigFMZzctunKfKe/VaBAcND4eK/BKwK2kMH', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=261), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=260, y=264), Point(x=259, y=4)])]
+
+QR code:	7.jpg
+data:	[Decoded(data=b'r1RBhPYz1ZDvKv8Gs5lKR2eOH5KniPvxXJYpHUYGbKJcpGf+2XJ69UBwUGwcHkre6PmdlEXNo1e1xZMr0PCx/sVJMtWvkNkrWlWX', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=261), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=260, y=264), Point(x=260, y=4)])]
+
+QR code:	8.jpg
+data:	[Decoded(data=b'n/SyJWbiEAik8Qph7lIr5G+DJvxZBf1Z8dvxZlKux7cD7pmuSDOKfKsiECToODhhz7qhhk8bFj15U/amTqRH2iwQSeh/JTIwd0ew', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=261), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=260, y=264), Point(x=259, y=4)])]
+
+QR code:	9.jpg
+data:	[Decoded(data=b'Cer4bRcxYeC50n82Bc7TLMeHGoJDzyTf4gadAn6KboOfLebM7nbI0TeJp0wr4/c0+aK+RxfKg2IV5pR/VTAKBhRc7eq8PZBumVt3', type='QRCODE', rect=Rect(left=0, top=3, width=259, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=263), Point(x=259, y=5)])]
+

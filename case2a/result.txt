@@ -1,0 +1,5 @@
+QR code:	python/payvegan_cases/case2a/output/1.jpg
+data:		[Decoded(data=b'Fx+7I1puVtg2h2pC10L6eauF7ouXosqd0lQTHZAJp000s8UKNZs1A49yKweVr5+yokRE6r9ftdNS58j5rmBHwPDX4yVqmheWAhI8', type='QRCODE', rect=Rect(left=0, top=3, width=260, height=260), polygon=[Point(x=0, y=3), Point(x=1, y=263), Point(x=259, y=262), Point(x=260, y=4)])]
+QR code:	python/payvegan_cases/case2a/output/14.jpg
+data:		[Decoded(data=b'IeizEkE4IHmrk+0RiB2OigA788uvBopApXifio9SY8bRnpshx+apXI5KjRqI9VVEcJDs7q0hKjh5n/ghZ/kvUwhskLIT2FAL7sY+', type='QRCODE', rect=Rect(left=0, top=3, width=259, height=261), polygon=[Point(x=0, y=3), Point(x=1, y=264), Point(x=259, y=263), Point(x=259, y=5)])]
+
