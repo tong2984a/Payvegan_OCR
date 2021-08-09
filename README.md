@@ -23,4 +23,4 @@ read receipt on computer and extract data
 task4b:
 read receipt on webcam and extract data
 
-* incomplete
+\* incomplete
