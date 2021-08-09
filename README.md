@@ -1,10 +1,26 @@
 # Payvegan_OCR
+task1a:
+read animate.mp4 and get all the QR codes on computer
 
-task1.py:
-  python file that fulfill task 1
-  
-task3.py :
-  python file that fulfill task 3
-  
-fin_task3.py :
-  the task that can extract literally all data from the receipt, that I demonstrated to eiko on last Fri
+task1b*:
+read animate.mp4 and get all the QR code on webcam
+
+task2a:
+read a QR code on computer and decode information, store in result.txt
+
+task2b:
+read a QR code on webcam and decode information, store in result.txt
+
+task3a:
+read image / online form on computer, get name and email information
+
+task3b:
+read image on webcam, get name and email information
+
+task4a:
+read receipt on computer and extract data
+
+task4b:
+read receipt on webcam and extract data
+
+* incomplete
