@@ -1,0 +1,39 @@
+1. create Raspberry Pi Operating System on SD card
+	1. go to https://www.raspberrypi.org/software/, under Install Raspberry Pi OS using Raspberry Pi Imager, install the suitable imager for your current operating system
+	2. run the imager, choose Operating System as RASPBERRY PI OS (32-BIT), Storage as the designated micro SD card, and write
+	3. insert micro SD card to raspberry pi, check display port (usb type-A to HDMI), keyboard (usb 2.0), mouse (usb 2.0), finally insert power cable (usb type-C), as before powering up the OS, keyboard and mouse is a must to control the OS
+	4. boot with micro SD and setup raspberry pi following instructions given and personal preference
+
+2. download required dependencies for payvegan cases (in terminal)
+	1. sudo apt-get install atool cmake tesseract-ocr python3 libatlas-base-dev libavformat-dev libavutil-dev libswscale-dev libv4l-dev libglew-dev libgtk2.0-dev libasound2-dev libspeex-dev 
+		libplist-dev gtk+-3.0 libappindicator3-dev raspberrypi-kernel-headers android-sdk-platform-tools-common libatlas-doc liblapack-doc libusbmuxd-tools libusbmuxd-dev
+	2. pip3 install pytesseract pyzbar numpy opencv-python pillow
+	3. pip3 install -U numpy
+
+3. Droidcam Client
+	1. download libjpeg-turbo-2.1.0.tar.gz from https://sourceforge.net/projects/libjpeg-turbo/files/2.1.0/ in ~/Downloads
+	2. mv ~/Downloads/libjpeg-turbo-2.1.0.tar.gz /tmp
+	3. cd /tmp
+	4. atool -x libjpeg-turbo-2.1.0.tar.gz
+	5. cd libjpeg-turbo-2.1.0
+	6. cmake -G"Unix Makefiles" .
+	7. make
+	8. sudo make install
+	9. cd /tmp
+	9. git clone https://github.com/dev47apps/droidcam.git
+	10. cd droidcam
+	11. make droidcam-cli
+	12. make droidcam
+	13. sudo ./install-client
+	14. sudo ./install-sound
+	15. sudo ./install-video
+	16. sudo ./install-dkms
+	17. sudo usermod -aG plugdev $LOGNAME
+	18. log out and log in
+	19. droidcam
+
+4. Run Program:
+	1. cd ~/Desktop/payvegan_cases/
+	2. choose desired case (num1-4 a/b)
+	3. cd case$(num+a/b)
+	4. python3 $(num+a/b).py
