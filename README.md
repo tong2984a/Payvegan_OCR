@@ -6,7 +6,8 @@ Arduino:
   
  SD_Camera:
   Insert SD card in ESP32-CAM, press RST to shoot photo, without interface between camera and screen
-\n
+
+
 Python:
  
 task1a:
