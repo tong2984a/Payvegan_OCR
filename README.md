@@ -1,4 +1,10 @@
 # Payvegan_OCR
+Arduino: 
+ CameraWebServer:
+  Remotely shoot photo via accessing IP address of connected Wifi on ESP32/m5module
+ SD_Camera:
+  Insert SD card in ESP32-CAM, press RST to shoot photo, without interface between camera and screen
+  
 task1a:
 read animate.mp4 and get all the QR codes on computer
 
