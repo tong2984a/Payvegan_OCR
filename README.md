@@ -7,6 +7,8 @@ Arduino:
  SD_Camera:
   Insert SD card in ESP32-CAM, press RST to shoot photo, without interface between camera and screen
   
+Python:
+ 
 task1a:
 read animate.mp4 and get all the QR codes on computer
 
