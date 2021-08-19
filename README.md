@@ -13,7 +13,7 @@ Python:
 task1a:
 read animate.mp4 and get all the QR codes on computer
 
-task1b*:
+task1b:
 read animate.mp4 and get all the QR code on webcam
 
 task2a:
