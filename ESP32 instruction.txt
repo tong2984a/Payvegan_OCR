@@ -1,0 +1,14 @@
+Esp32 instruction
+1. install Arduino IDE on arduino.cc/en/software for your operating system
+2. Open Arduino, File -> Preferences -> Add board, add url 
+	https://dl.espressif.com/dl/package_esp32_index.json
+	http://arduino.esp8266.com/stable/package_esp8266com_index.json
+   save the setting
+3. Open CameraWebServer.ino, with app_httpd.cpp, camera_index.h, camera_pins.h in the same directory, type in the ssid and password in the program, uncomment the line #define CAMERA_MODEL_AI_THINKER
+4. plug in cable from ttl to usb, 5V to 5V, TXD to UOR, RXD to UOT, GND to GND, IO0 to GND for flash mode, plug usb of the ttl to usb in computer
+5. in Tool, Board -> ESP32 Arduino -> AI Thinker ESP32-CAM, CPU Frequency, Flash Frequency, Flash Mode remains the same, for Serial Port choose suitable usb port
+6. Compile the program, and write to port
+7. Unplug all cables from the ttl to usb adapter after writing (most important is IO0 to GND cable to leave flash mode), use any usb micro-b type power supply plug to board will run the program
+8. if communication to computer is needed, plug the usb to micro-b type from computer to the ESP32-CAM, in the top-left corner of programming interface, press the Serial Monitor button
+9. make sure baud rate at 115200 to correctly communicate with the board, press RST on the board to make sure the program reruns
+10. the Serial Monitor will indicate the IP address that can access the camera on browser, paste the link in the browser and the camera web server is ready to be used
