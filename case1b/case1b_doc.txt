@@ -1,0 +1,46 @@
+case 1b methodology:
+1. 1b.py
+	- opencv, pyzbar task
+	- initialize code_set, number of QR code
+	- while webcam is turned on
+		- decode any detected QR code on screen, using pyzbar.decode
+		- if the detected is not in code_set, append data to code_set, increase to number of QR code
+		- if 'q' button is pressed, write all data in code_set to result.txt program directory, print number of QR code
+
+	- advantage:
+		- instant decoding detected QR code, no need of pre-processing
+		- easy concept with clean code, easy to understand, no need of AI
+		- QR code by QR code with instant decode increases the precision of detecting QR code, since whether getting the current frame data is determined by the decoded data, not the image, which may vary even the same QR code
+	- disadvantage:
+		- without use of AI, may not find or detect QR code with obscure image
+
+2. 1b_test1.py
+	- opencv, numpy task
+	- load AI model
+	- while webcam is turned on
+		- try to detect any QR code on screen, using the AI model, place the detected one in an opencv frame
+		- use mse image comparison algorithm, to compare the QR code cut off in this frame and last frame, if same, go for next frame (this indicate the program detects the same QR code with last frame of the gif image)
+		- use mse image comparison algorithm, to compare the QR code cut off in this frame and first frame, if same, end the program (this indicate the program detects the first QR code of the gif image)
+		- if none of both above cases, write the QR code data in result.txt
+		- if "q" button is pressed, end the program
+
+	- advantage:
+		- AI model helps with the precision of detecting QR code
+	- disadvantage:
+		- complicated and untidy code, with AI model
+		- drain the usage of CPU, as AI is used, program is easy to crash
+ 		- frame by frame method decreases the precision of detecting QR code, since if the hand moves, even the same QR code, will show a different image, which may be detected as different to last frame and result redundant QR code
+
+3. 1b_test2.py (incomplete)
+	- PIL, pyzbar, opencv
+	- while webcam is turned on
+		- try to detect any QR code on screen, using function process_img(image), by opencv image processing, and show the detected in an opencv frame (ROI)
+		- use mse image comparison algorithm, to compare the QR code cut off in this frame and last frame, if same, go for next frame (this indicate the program detects the same QR code with last frame of the gif image)
+		- use mse image comparison algorithm, to compare the QR code cut off in this frame and first frame, if same, end the program (this indicate the program detects the first QR code of the gif image)
+		- if none of both above cases, write the QR code data in result.txt
+		- if "q" button is pressed, end the program
+
+	- advantage:
+		- basic image processing in opencv library is enough for detecting QR code, resulting clean code, easy to understand
+	- disadvantage:
+ 		- frame by frame method decreases the precision of detecting QR code, since if the hand moves, even the same QR code, will show a different image, which may be detected as different to last frame and result redundant QR code
