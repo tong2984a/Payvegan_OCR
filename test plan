@@ -1,0 +1,24 @@
+# Test Plan
+ - Test Case 1. Register New Account
+ - Test Case 2. Redeem Rewards
+ - Test Case 3. Read Receipt
+
+## Test Case 1: Register New Account
+ - OCR scan form1.png to read Username and Contact No.
+ - Make an ajax call to register new account under the Username
+   - ajax endpoint: POST https://ancient-eyrie-93473.herokuapp.com/users
+
+## Test Case 2: Redeem Rewards
+ - Scan animate.mp4 to detect QR codes
+ - Make an array of jpeg files out of the QR codes
+ - Decode each jpeg files in the array
+
+## Test Case 3: Read Receipt
+ - OCR scan combo.png to read Tom Brady, SHOP NAME and the 5 dishes
+ - Make an ajax call to earn rewards under the username of Tom Brady
+   - ajax endpoint: POST https://ancient-eyrie-93473.herokuapp.com/earnings/Tom%20Brady
+
+# Forms
+ - https://codepen.io/juff03/pen/OXaXRG
+ - https://codepen.io/matthu185/pen/myyvgr
+ - https://codepen.io/chrissteurer/pen/oqjul
